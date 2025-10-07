@@ -57,5 +57,3 @@ ehthumbs.db
 # Optional: Engine plugins (if you're not customizing them)
 Plugins/*
 
-# Optional: if using marketplace content
-**/Marketplace/
